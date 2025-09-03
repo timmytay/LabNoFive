@@ -26,8 +26,8 @@ namespace LabNoFive.Objects
         }
         public virtual void Render(Graphics g)
         {
+            // тут пусто
         }
-
         public virtual GraphicsPath GetGraphicsPath()
         {
             return new GraphicsPath();

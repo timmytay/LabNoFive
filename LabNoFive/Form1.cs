@@ -165,6 +165,5 @@ namespace LabNoFive
 
             pbMain.Invalidate();
         }
-
     }
 }

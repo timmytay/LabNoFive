@@ -38,7 +38,7 @@
             // 
             // pbMain
             // 
-            pbMain.Location = new Point(200, 12);
+            pbMain.Location = new Point(12, 12);
             pbMain.Name = "pbMain";
             pbMain.Size = new Size(448, 278);
             pbMain.TabIndex = 0;
@@ -48,7 +48,7 @@
             // 
             // txtLog
             // 
-            txtLog.Location = new Point(12, 12);
+            txtLog.Location = new Point(466, 12);
             txtLog.Name = "txtLog";
             txtLog.ReadOnly = true;
             txtLog.Size = new Size(182, 278);
@@ -58,7 +58,7 @@
             // labelScore
             // 
             labelScore.AutoSize = true;
-            labelScore.Location = new Point(200, 15);
+            labelScore.Location = new Point(12, 15);
             labelScore.Name = "labelScore";
             labelScore.Size = new Size(48, 15);
             labelScore.TabIndex = 2;
